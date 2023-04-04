@@ -19,7 +19,7 @@ body
   margin: 0;
   font-size: 50px;
   color: rgba(225,225,225, .01);
-  background-image: url("/Images/stephenhawking.jpg");
+  background-image: url("Portfolio/Images/stephenhawking.jpg");
   background-repeat: repeat;
   -webkit-background-clip:text;
   animation: animate 15s ease-in-out infinite;
@@ -34,7 +34,7 @@ body
     margin-top: 50px;
     font-size: 150px;
     color: rgba(225,225,225, .01);
-    background-image: url("/Images/stephenhawking.jpg");
+    background-image: url("Portfolio/Images/stephenhawking.jpg");
     background-repeat: repeat;
     -webkit-background-clip:text;
     animation: animate 15s ease-in-out infinite;
@@ -90,7 +90,7 @@ span
 {
     width: 100%;
     padding: 100px 0px;
-    background-image: url(/Images/space.gif);
+    background-image: url(Portfolio/Images/space.gif);
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
